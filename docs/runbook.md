@@ -23,7 +23,7 @@ export GOOGLE_DRIVE_PARENT_FOLDER_ID="optional_parent_folder_id"
 ```
 
 OAuth setup guide:
-- `/Users/murphy/PythonProjects/UpWork/sec_api_automation/docs/google_oauth_setup.md`
+- `docs/google_oauth_setup.md`
 
 ## 2) Input CSV format
 

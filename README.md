@@ -19,6 +19,6 @@ Main entrypoint:
 - `src/sec_api_automation/main.py`
 
 Detailed instructions:
-- `/Users/murphy/PythonProjects/UpWork/sec_api_automation/docs/runbook.md`
-- `/Users/murphy/PythonProjects/UpWork/sec_api_automation/docs/google_oauth_setup.md`
-- `/Users/murphy/PythonProjects/UpWork/sec_api_automation/docs/google_service_account_setup.md`
+- `docs/runbook.md`
+- `docs/google_oauth_setup.md`
+- `docs/google_service_account_setup.md`

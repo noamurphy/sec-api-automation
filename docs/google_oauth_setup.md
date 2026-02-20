@@ -36,5 +36,5 @@ On first run, your browser opens and asks you to sign in + consent. After approv
 
 ## 4) Verify
 
-Run the 10-company demo in `/Users/murphy/PythonProjects/UpWork/sec_api_automation/docs/runbook.md`.
+Run the 10-company demo in `docs/runbook.md`.
 Confirm folders/files appear in your My Drive.

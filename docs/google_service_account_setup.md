@@ -27,7 +27,7 @@ export GOOGLE_DRIVE_AUTH_MODE="service_account"
 
 ## Verify
 
-Run the 10-company demo in `/Users/murphy/PythonProjects/UpWork/sec_api_automation/docs/runbook.md` and confirm:
+Run the 10-company demo in `docs/runbook.md` and confirm:
 - Folders are created
 - Folder permission is "anyone with link can view"
 - PDF files upload successfully
